@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhay Chaudhary
 - 👀 I’m interested in Web Development and also in cybersecurity
-- 🌱 I’m currently learning IT sectors requirement 
+- 🌱 I’m currently learning IT sectors requirements 
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
